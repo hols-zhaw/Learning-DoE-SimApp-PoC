@@ -1,0 +1,15 @@
+name: streamlit_app
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - streamlit
+  - numpy
+  - pandas
+  - matplotlib
+  - statsmodels
+  # - scikit-learn
+  # - seaborn
+  # - plotly
+  # - black
